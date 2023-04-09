@@ -7,7 +7,7 @@ async function fetchRepos() {
       revalidate: 60,
     },
   })
-  // Delay de 1 segundo a propósito para experimentar con Suspense
+  // Delay de 1 segundo a propósito para experimentar con Suspense y loading.jsx en /app
   await new Promise((resolve) => setTimeout(resolve, 1000))
 
   const repos = await response.json()
