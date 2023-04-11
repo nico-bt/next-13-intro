@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Node.js",
+    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript.",
+    "level": "All Levels"
+  },
+  {
+    "id": 4,
+    "title": "Next.js",
+    "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Design for developers",
+    "description": "The fundamentals of design and how to incorporate design principles into their development process. The course covers topics such as color theory, typography, layout, user experience (UX), and user interface (UI) design.",
+    "level": "Beginner"
+  }
+]
